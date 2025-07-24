@@ -4,8 +4,12 @@
 Quase formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados! Buscando oportunidades de estágio ou cargo de assistente em análise de dados para aplicar meus conhecimentos em:
 
 ✔ Power BI (Visualização e Dashboards)
+
 ✔ SQL (Consultas e Bancos de Dados)
+
 ✔ Python (Pandas, Análise de Dados)
+
+✔ Excel (Fórmulas, Gerenciamento de planilhas)
 
 Aberta a colaborações e projetos que me ajudem a crescer na área. Vamos conectar e transformar dados em insights!
 
