@@ -10,7 +10,7 @@ Quase formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados!
 Aberta a colaborações e projetos que me ajudem a crescer na área. Vamos conectar e transformar dados em insights!
 
 ## Linguagens e Ferramentas mais utilizadas:
-<img width="70" height="70" src="https://img.icons8.com/fluency/96/power-bi-2021.png" alt="power-bi-2021"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"  /> 
+<img width="70" height="70" src="https://img.icons8.com/fluency/96/power-bi-2021.png" alt="power-bi-2021"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"  /><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1" width="65" height="65"/> 
 
 <!--
 
