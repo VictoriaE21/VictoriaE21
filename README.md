@@ -1,7 +1,7 @@
 
 ## 📊 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Analista de Dados
 
-Quase formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados! Buscando oportunidades de estágio em análise de dados para aplicar meus conhecimentos em:
+Quase formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados! Buscando oportunidades de estágio ou cargo de assistente em análise de dados para aplicar meus conhecimentos em:
 
 ✔ Power BI (Visualização e Dashboards)
 ✔ SQL (Consultas e Bancos de Dados)
