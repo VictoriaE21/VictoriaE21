@@ -1,5 +1,5 @@
 
-## 📊 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Analista de Dados
+## 📊 Aspirante à Analista de Dados I SQL I Power BI I Python 
 
 Quase formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados! Buscando oportunidades de estágio ou cargo de assistente em análise de dados para aplicar meus conhecimentos em:
 
