@@ -1,7 +1,7 @@
 
 ## 📊 Aspirante à Analista de Dados I SQL I Power BI I Python 
 
-Quase formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados! Buscando oportunidades de estágio ou cargo de assistente em análise de dados para aplicar meus conhecimentos em:
+Formanda em Análise e Desenvolvimento de Sistemas e apaixonada por dados! Gostaria da minha 1º oportunidade na área de dados como Estagiária em Dados ou Analista de Dados Jr. Busco crescimento e evolução. Possuo habilidades concretas em:
 
 ✔ Power BI (Visualização e Dashboards)
 
